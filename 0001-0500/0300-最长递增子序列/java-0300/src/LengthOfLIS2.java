@@ -16,6 +16,7 @@ public class LengthOfLIS2 {
                 len++;
                 dp[len] = nums[i];
             } else {
+
                 // dp数组中[0, len]区间小于nums[i]的最大值索引
                 int pos = lower(dp, 0, len, nums[i]);
 
