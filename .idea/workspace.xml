@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8142d485-6c6d-4f70-9eac-a6258ca7c7b3" name="Default Changelist" comment="" />
+    <list default="true" id="8142d485-6c6d-4f70-9eac-a6258ca7c7b3" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/我的Leetcode题解.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/我的Leetcode题解.iml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,25 +23,25 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="11" />
-          <entry key="md" value="1" />
+          <entry key="java" value="12" />
+          <entry key="md" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="11" />
-          <entry key="Markdown" value="1" />
+          <entry key="JAVA" value="12" />
+          <entry key="Markdown" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="11" />
-          <entry key="java" value="1953" />
+          <entry key="java" value="2444" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="1953" />
+          <entry key="JAVA" value="2444" />
           <entry key="PLAIN_TEXT" value="11" />
         </counts>
       </usages-collector>
@@ -46,11 +49,32 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/2000-2500/2237-Count-Positions-on-Street-With-Required-Brightness/java-2237/src/MeetRequirement.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="18">
+              <caret line="1" column="9" selection-start-line="1" selection-start-column="9" selection-end-line="1" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/0001-0500/0001-两数之和/java-0001/src/TwoSum.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="450">
-              <caret line="25" column="1" lean-forward="true" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
+              <caret line="25" column="1" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="18">
+                <caret line="1" selection-start-line="1" selection-end-line="1" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -64,11 +88,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/0001-0500/0003-无重复字符的最长子串/java-0003/src/LengthOfLongestSubstring2.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="468">
-              <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+              <caret line="26" selection-start-line="26" selection-end-line="26" />
             </state>
           </provider>
         </entry>
@@ -76,8 +100,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/0001-0500/0300-最长递增子序列/java-0300/src/LengthOfLIS1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="468">
-              <caret line="26" column="43" lean-forward="true" selection-start-line="26" selection-start-column="43" selection-end-line="26" selection-end-column="43" />
+            <state relative-caret-position="522">
+              <caret line="29" column="1" selection-start-line="29" selection-start-column="1" selection-end-line="29" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -85,8 +109,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/0001-0500/0300-最长递增子序列/java-0300/src/LengthOfLIS2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="504">
-              <caret line="28" column="23" lean-forward="true" selection-start-line="28" selection-start-column="23" selection-end-line="28" selection-end-column="23" />
+            <state relative-caret-position="324">
+              <caret line="18" column="25" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -116,6 +140,8 @@
         <option value="$PROJECT_DIR$/0001-0500/0300-最长递增子序列/java-0300/src/LengthOfLIS1.java" />
         <option value="$PROJECT_DIR$/0001-0500/0001-两数之和/java-0001/src/TwoSum.java" />
         <option value="$PROJECT_DIR$/0001-0500/0003-无重复字符的最长子串/java-0003/src/LengthOfLongestSubstring2.java" />
+        <option value="$PROJECT_DIR$/2000-2500/2237-Count-Positions-on-Street-With-Required-Brightness/java-2237/src/Main.java" />
+        <option value="$PROJECT_DIR$/2000-2500/2237-Count-Positions-on-Street-With-Required-Brightness/java-2237/src/MeetRequirement.java" />
       </list>
     </option>
   </component>
@@ -125,7 +151,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="372" />
     <option name="y" value="67" />
     <option name="width" value="1447" />
@@ -155,43 +181,7 @@
               <item name="我的Leetcode题解" type="b2602c69:ProjectViewProjectNode" />
               <item name="我的Leetcode题解" type="462c0819:PsiDirectoryNode" />
               <item name="0001-0500" type="462c0819:PsiDirectoryNode" />
-              <item name="0001-两数之和" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="我的Leetcode题解" type="b2602c69:ProjectViewProjectNode" />
-              <item name="我的Leetcode题解" type="462c0819:PsiDirectoryNode" />
-              <item name="0001-0500" type="462c0819:PsiDirectoryNode" />
-              <item name="0001-两数之和" type="462c0819:PsiDirectoryNode" />
-              <item name="java-0001" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="我的Leetcode题解" type="b2602c69:ProjectViewProjectNode" />
-              <item name="我的Leetcode题解" type="462c0819:PsiDirectoryNode" />
-              <item name="0001-0500" type="462c0819:PsiDirectoryNode" />
-              <item name="0001-两数之和" type="462c0819:PsiDirectoryNode" />
-              <item name="java-0001" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="我的Leetcode题解" type="b2602c69:ProjectViewProjectNode" />
-              <item name="我的Leetcode题解" type="462c0819:PsiDirectoryNode" />
-              <item name="0001-0500" type="462c0819:PsiDirectoryNode" />
               <item name="0003-无重复字符的最长子串" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="我的Leetcode题解" type="b2602c69:ProjectViewProjectNode" />
-              <item name="我的Leetcode题解" type="462c0819:PsiDirectoryNode" />
-              <item name="0001-0500" type="462c0819:PsiDirectoryNode" />
-              <item name="0003-无重复字符的最长子串" type="462c0819:PsiDirectoryNode" />
-              <item name="java-0003" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="我的Leetcode题解" type="b2602c69:ProjectViewProjectNode" />
-              <item name="我的Leetcode题解" type="462c0819:PsiDirectoryNode" />
-              <item name="0001-0500" type="462c0819:PsiDirectoryNode" />
-              <item name="0003-无重复字符的最长子串" type="462c0819:PsiDirectoryNode" />
-              <item name="java-0003" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="我的Leetcode题解" type="b2602c69:ProjectViewProjectNode" />
@@ -209,9 +199,27 @@
             <path>
               <item name="我的Leetcode题解" type="b2602c69:ProjectViewProjectNode" />
               <item name="我的Leetcode题解" type="462c0819:PsiDirectoryNode" />
-              <item name="0001-0500" type="462c0819:PsiDirectoryNode" />
-              <item name="0300-最长递增子序列" type="462c0819:PsiDirectoryNode" />
-              <item name="java-0300" type="462c0819:PsiDirectoryNode" />
+              <item name="2000-2500" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="我的Leetcode题解" type="b2602c69:ProjectViewProjectNode" />
+              <item name="我的Leetcode题解" type="462c0819:PsiDirectoryNode" />
+              <item name="2000-2500" type="462c0819:PsiDirectoryNode" />
+              <item name="2237-Count-Positions-on-Street-With-Required-Brightness" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="我的Leetcode题解" type="b2602c69:ProjectViewProjectNode" />
+              <item name="我的Leetcode题解" type="462c0819:PsiDirectoryNode" />
+              <item name="2000-2500" type="462c0819:PsiDirectoryNode" />
+              <item name="2237-Count-Positions-on-Street-With-Required-Brightness" type="462c0819:PsiDirectoryNode" />
+              <item name="java-2237" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="我的Leetcode题解" type="b2602c69:ProjectViewProjectNode" />
+              <item name="我的Leetcode题解" type="462c0819:PsiDirectoryNode" />
+              <item name="2000-2500" type="462c0819:PsiDirectoryNode" />
+              <item name="2237-Count-Positions-on-Street-With-Required-Brightness" type="462c0819:PsiDirectoryNode" />
+              <item name="java-2237" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -223,7 +231,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1663065403968" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1663068327786" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -243,7 +251,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TwoSum">
+  <component name="RunManager" selected="Application.MeetRequirement">
     <configuration name="LengthOfLIS1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LengthOfLIS1" />
       <module name="我的Leetcode题解" />
@@ -251,15 +259,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LengthOfLIS2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LengthOfLIS2" />
+    <configuration name="LengthOfLongestSubstring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LengthOfLongestSubstring" />
       <module name="我的Leetcode题解" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LengthOfLongestSubstring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LengthOfLongestSubstring" />
+    <configuration name="MeetRequirement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MeetRequirement" />
       <module name="我的Leetcode题解" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -281,18 +289,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.LengthOfLIS1" />
-      <item itemvalue="Application.LengthOfLIS2" />
       <item itemvalue="Application.LengthOfLongestSubstring" />
       <item itemvalue="Application.Solution4" />
       <item itemvalue="Application.TwoSum" />
+      <item itemvalue="Application.MeetRequirement" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MeetRequirement" />
         <item itemvalue="Application.TwoSum" />
         <item itemvalue="Application.Solution4" />
         <item itemvalue="Application.LengthOfLongestSubstring" />
         <item itemvalue="Application.LengthOfLIS1" />
-        <item itemvalue="Application.LengthOfLIS2" />
       </list>
     </recent_temporary>
   </component>
@@ -307,18 +315,18 @@
       <option name="presentableId" value="Default" />
       <updated>1663057794962</updated>
       <workItem from="1663057801922" duration="361000" />
-      <workItem from="1663058197241" duration="5482000" />
+      <workItem from="1663058197241" duration="7721000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5843000" />
+    <option name="totallyTimeSpent" value="8082000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18710022" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18710022" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -328,7 +336,7 @@
       <window_info anchor="bottom" id="Messages" weight="0.32899022" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32681867" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.24864277" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -362,41 +370,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="18">
-            <caret line="1" selection-start-line="1" selection-end-line="1" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/0001-0500/0003-无重复字符的最长子串/java-0003/src/Solution2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="36">
           <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/0001-0500/0001-两数之和/java-0001/src/TwoSum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="25" column="1" lean-forward="true" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/0001-0500/0300-最长递增子序列/java-0300/src/LengthOfLIS1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="468">
-          <caret line="26" column="43" lean-forward="true" selection-start-line="26" selection-start-column="43" selection-end-line="26" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/0001-0500/0300-最长递增子序列/java-0300/src/LengthOfLIS2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="28" column="23" lean-forward="true" selection-start-line="28" selection-start-column="23" selection-end-line="28" selection-end-column="23" />
         </state>
       </provider>
     </entry>
@@ -410,7 +387,45 @@
     <entry file="file://$PROJECT_DIR$/0001-0500/0003-无重复字符的最长子串/java-0003/src/LengthOfLongestSubstring2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="468">
-          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/0001-0500/0001-两数之和/java-0001/src/TwoSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="25" column="1" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="18">
+            <caret line="1" selection-start-line="1" selection-end-line="1" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/0001-0500/0300-最长递增子序列/java-0300/src/LengthOfLIS1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="522">
+          <caret line="29" column="1" selection-start-line="29" selection-start-column="1" selection-end-line="29" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/0001-0500/0300-最长递增子序列/java-0300/src/LengthOfLIS2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="18" column="25" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2000-2500/2237-Count-Positions-on-Street-With-Required-Brightness/java-2237/src/MeetRequirement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" column="9" selection-start-line="1" selection-start-column="9" selection-end-line="1" selection-end-column="9" />
         </state>
       </provider>
     </entry>
