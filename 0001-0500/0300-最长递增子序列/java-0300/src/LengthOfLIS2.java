@@ -1,4 +1,4 @@
-public class Solution2 {
+public class LengthOfLIS2 {
     // 贪心 + 二分
     public int lengthOfLIS(int[] nums) {
         int n = nums.length;
@@ -39,6 +39,6 @@ public class Solution2 {
 
     public static void main(String[] args) {
         int[] nums = {10,9,2,5,3,7,101,18};
-        System.out.print(new Solution1().lengthOfLIS(nums));
+        System.out.print(new LengthOfLIS1().lengthOfLIS(nums));
     }
 }

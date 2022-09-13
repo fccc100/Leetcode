@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-class Solution1 {
+class LengthOfLIS1 {
     // 最长公共子序列
     // 动态规划 O(n^2)
     public int lengthOfLIS(int[] nums) {
@@ -25,7 +25,7 @@ class Solution1 {
 
     public static void main(String[] args) {
         int[] nums = {10,9,2,5,3,7,101,18};
-        System.out.print(new Solution1().lengthOfLIS(nums));
+        System.out.print(new LengthOfLIS1().lengthOfLIS(nums));
     }
 }
 
