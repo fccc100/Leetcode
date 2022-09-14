@@ -3,6 +3,7 @@
   <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8" inherit-compiler-output="true">
     <exclude-output />
     <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/0001-0500/0206-反转链表/java-206/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/0001-0500/0300-最长递增子序列/java-0300/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/0001-0500/0003-无重复字符的最长子串/java-0003/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/0001-0500/0001-两数之和/java-0001/src" isTestSource="false" />
