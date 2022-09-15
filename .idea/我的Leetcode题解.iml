@@ -10,6 +10,7 @@
       <sourceFolder url="file://$MODULE_DIR$/0001-0500/0003-无重复字符的最长子串/java-0003/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/0001-0500/0001-两数之和/java-0001/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/1001-1500/1310-子数组异或查询/java-1310/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/LC/LCP02-分式化简/java-LCP02/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/1001-1500/1228-等差数列中缺失的数字/java-1228/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/1501-2000/1619-删除某些元素后的数组均值/java-1619/src" isTestSource="false" />
     </content>
