@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="8142d485-6c6d-4f70-9eac-a6258ca7c7b3" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/我的Leetcode题解.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/我的Leetcode题解.iml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -23,28 +22,28 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="19" />
-          <entry key="js" value="6" />
+          <entry key="java" value="20" />
+          <entry key="js" value="7" />
           <entry key="md" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="19" />
-          <entry key="JavaScript" value="6" />
+          <entry key="JAVA" value="20" />
+          <entry key="JavaScript" value="7" />
           <entry key="Markdown" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="12" />
-          <entry key="java" value="3600" />
+          <entry key="java" value="3601" />
           <entry key="js" value="92" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="3600" />
+          <entry key="JAVA" value="3601" />
           <entry key="JavaScript" value="92" />
           <entry key="PLAIN_TEXT" value="12" />
         </counts>
@@ -54,10 +53,32 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/0001-0500/319-灯泡开关/java-319/src/BulbSwitch.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="72">
+              <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+              <folding>
+                <element signature="e#50#51#0" expanded="true" />
+                <element signature="e#103#104#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/LC/LCP02-分式化简/java-LCP02/src/Fraction.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="324">
-              <caret line="18" column="19" lean-forward="true" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
+            <state relative-caret-position="378">
+              <caret line="21" selection-start-line="21" selection-end-line="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/0001-0500/319-灯泡开关/js-319/Solution.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="108">
+              <caret line="6" column="2" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="2" />
             </state>
           </provider>
         </entry>
@@ -94,24 +115,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="324">
               <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/0001-0500/0206-反转链表/java-206/src/ReverseList1.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="378">
-              <caret line="21" column="22" selection-start-line="21" selection-start-column="15" selection-end-line="21" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/2001-2500/2237-Count-Positions-on-Street-With-Required-Brightness/java-2237/src/MeetRequirement.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="414">
-              <caret line="23" selection-start-line="23" selection-end-line="23" />
             </state>
           </provider>
         </entry>
@@ -198,6 +201,8 @@
         <option value="$PROJECT_DIR$/LC/LCP02-分式化简/js-LCP02/Solution.js" />
         <option value="$PROJECT_DIR$/LC/LCP02-分式化简/java-LCP02/src/Main.java" />
         <option value="$PROJECT_DIR$/LC/LCP02-分式化简/java-LCP02/src/Fraction.java" />
+        <option value="$PROJECT_DIR$/0001-0500/319-灯泡开关/js-319/Solution.js" />
+        <option value="$PROJECT_DIR$/0001-0500/319-灯泡开关/java-319/src/Main.java" />
       </list>
     </option>
   </component>
@@ -207,11 +212,11 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="850" />
-    <option name="y" value="101" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="247" />
+    <option name="y" value="120" />
     <option name="width" value="1447" />
-    <option name="height" value="887" />
+    <option name="height" value="837" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -237,56 +242,38 @@
               <item name="我的Leetcode题解" type="b2602c69:ProjectViewProjectNode" />
               <item name="我的Leetcode题解" type="462c0819:PsiDirectoryNode" />
               <item name="0001-0500" type="462c0819:PsiDirectoryNode" />
-              <item name="0206-反转链表" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="我的Leetcode题解" type="b2602c69:ProjectViewProjectNode" />
-              <item name="我的Leetcode题解" type="462c0819:PsiDirectoryNode" />
-              <item name="0001-0500" type="462c0819:PsiDirectoryNode" />
               <item name="0300-最长递增子序列" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="我的Leetcode题解" type="b2602c69:ProjectViewProjectNode" />
               <item name="我的Leetcode题解" type="462c0819:PsiDirectoryNode" />
-              <item name="1001-1500" type="462c0819:PsiDirectoryNode" />
+              <item name="0001-0500" type="462c0819:PsiDirectoryNode" />
+              <item name="319-灯泡开关" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="我的Leetcode题解" type="b2602c69:ProjectViewProjectNode" />
               <item name="我的Leetcode题解" type="462c0819:PsiDirectoryNode" />
-              <item name="1001-1500" type="462c0819:PsiDirectoryNode" />
-              <item name="1228-等差数列中缺失的数字" type="462c0819:PsiDirectoryNode" />
+              <item name="0001-0500" type="462c0819:PsiDirectoryNode" />
+              <item name="319-灯泡开关" type="462c0819:PsiDirectoryNode" />
+              <item name="java-319" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="我的Leetcode题解" type="b2602c69:ProjectViewProjectNode" />
               <item name="我的Leetcode题解" type="462c0819:PsiDirectoryNode" />
-              <item name="1001-1500" type="462c0819:PsiDirectoryNode" />
-              <item name="1310-子数组异或查询" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="我的Leetcode题解" type="b2602c69:ProjectViewProjectNode" />
-              <item name="我的Leetcode题解" type="462c0819:PsiDirectoryNode" />
-              <item name="LC" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="我的Leetcode题解" type="b2602c69:ProjectViewProjectNode" />
-              <item name="我的Leetcode题解" type="462c0819:PsiDirectoryNode" />
-              <item name="LC" type="462c0819:PsiDirectoryNode" />
-              <item name="LCP02-分式化简" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="我的Leetcode题解" type="b2602c69:ProjectViewProjectNode" />
-              <item name="我的Leetcode题解" type="462c0819:PsiDirectoryNode" />
-              <item name="LC" type="462c0819:PsiDirectoryNode" />
-              <item name="LCP02-分式化简" type="462c0819:PsiDirectoryNode" />
-              <item name="java-LCP02" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="我的Leetcode题解" type="b2602c69:ProjectViewProjectNode" />
-              <item name="我的Leetcode题解" type="462c0819:PsiDirectoryNode" />
-              <item name="LC" type="462c0819:PsiDirectoryNode" />
-              <item name="LCP02-分式化简" type="462c0819:PsiDirectoryNode" />
-              <item name="java-LCP02" type="462c0819:PsiDirectoryNode" />
+              <item name="0001-0500" type="462c0819:PsiDirectoryNode" />
+              <item name="319-灯泡开关" type="462c0819:PsiDirectoryNode" />
+              <item name="java-319" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="我的Leetcode题解" type="b2602c69:ProjectViewProjectNode" />
+              <item name="我的Leetcode题解" type="462c0819:PsiDirectoryNode" />
+              <item name="1001-1500" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="我的Leetcode题解" type="b2602c69:ProjectViewProjectNode" />
+              <item name="我的Leetcode题解" type="462c0819:PsiDirectoryNode" />
+              <item name="LC" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -297,7 +284,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1663231583325" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1663294431370" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -383,18 +370,18 @@
       <option name="presentableId" value="Default" />
       <updated>1663057794962</updated>
       <workItem from="1663057801922" duration="361000" />
-      <workItem from="1663058197241" duration="16835000" />
+      <workItem from="1663058197241" duration="17660000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17196000" />
+    <option name="totallyTimeSpent" value="18021000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="850" y="101" width="1447" height="887" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23576063" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17430703" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -404,7 +391,7 @@
       <window_info anchor="bottom" id="Messages" weight="0.32899022" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.30452126" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.24864277" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -583,8 +570,26 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/LC/LCP02-分式化简/java-LCP02/src/Fraction.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="18" column="19" lean-forward="true" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
+        <state relative-caret-position="378">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/0001-0500/319-灯泡开关/js-319/Solution.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="2" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/0001-0500/319-灯泡开关/java-319/src/BulbSwitch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+          <folding>
+            <element signature="e#50#51#0" expanded="true" />
+            <element signature="e#103#104#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
