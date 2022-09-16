@@ -22,28 +22,28 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="20" />
-          <entry key="js" value="7" />
+          <entry key="java" value="21" />
+          <entry key="js" value="9" />
           <entry key="md" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="20" />
-          <entry key="JavaScript" value="7" />
+          <entry key="JAVA" value="21" />
+          <entry key="JavaScript" value="9" />
           <entry key="Markdown" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="12" />
-          <entry key="java" value="3601" />
+          <entry key="java" value="3602" />
           <entry key="js" value="92" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="3601" />
+          <entry key="JAVA" value="3602" />
           <entry key="JavaScript" value="92" />
           <entry key="PLAIN_TEXT" value="12" />
         </counts>
@@ -53,14 +53,45 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/0001-0500/319-灯泡开关/java-319/src/BulbSwitch.java">
+        <entry file="file://$PROJECT_DIR$/LC/LCP17-速算机器人/java-LCP17/src/Calculate.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="72">
               <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
               <folding>
+                <element signature="e#52#53#0" expanded="true" />
+                <element signature="e#104#105#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/0001-0500/319-灯泡开关/java-319/src/BulbSwitch.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="72">
+              <caret line="4" column="1" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+              <folding>
                 <element signature="e#50#51#0" expanded="true" />
                 <element signature="e#103#104#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LC/LCP17-速算机器人/js-LCP17/Solution1.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="15" column="2" selection-start-line="15" selection-start-column="2" selection-end-line="15" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LC/LCP17-速算机器人/js-LCP17/Solution2.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="108">
+              <caret line="6" column="2" lean-forward="true" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="2" />
             </state>
           </provider>
         </entry>
@@ -97,33 +128,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="288">
               <caret line="16" column="26" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/1001-1500/1228-等差数列中缺失的数字/java-1228/src/MissingNumber.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/1001-1500/1310-子数组异或查询/java-1310/src/XorQueries.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="324">
-              <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/1001-1500/1310-子数组异或查询/js-1310/Solution.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="19" column="2" selection-start-line="19" selection-start-column="2" selection-end-line="19" selection-end-column="2" />
             </state>
           </provider>
         </entry>
@@ -203,6 +207,9 @@
         <option value="$PROJECT_DIR$/LC/LCP02-分式化简/java-LCP02/src/Fraction.java" />
         <option value="$PROJECT_DIR$/0001-0500/319-灯泡开关/js-319/Solution.js" />
         <option value="$PROJECT_DIR$/0001-0500/319-灯泡开关/java-319/src/Main.java" />
+        <option value="$PROJECT_DIR$/LC/LCP17-速算机器人/js-LCP17/Solution.js" />
+        <option value="$PROJECT_DIR$/LC/LCP17-速算机器人/js-LCP17/Solution2.js" />
+        <option value="$PROJECT_DIR$/LC/LCP17-速算机器人/java-LCP17/src/Main.java" />
       </list>
     </option>
   </component>
@@ -241,39 +248,46 @@
             <path>
               <item name="我的Leetcode题解" type="b2602c69:ProjectViewProjectNode" />
               <item name="我的Leetcode题解" type="462c0819:PsiDirectoryNode" />
-              <item name="0001-0500" type="462c0819:PsiDirectoryNode" />
-              <item name="0300-最长递增子序列" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="我的Leetcode题解" type="b2602c69:ProjectViewProjectNode" />
-              <item name="我的Leetcode题解" type="462c0819:PsiDirectoryNode" />
-              <item name="0001-0500" type="462c0819:PsiDirectoryNode" />
-              <item name="319-灯泡开关" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="我的Leetcode题解" type="b2602c69:ProjectViewProjectNode" />
-              <item name="我的Leetcode题解" type="462c0819:PsiDirectoryNode" />
-              <item name="0001-0500" type="462c0819:PsiDirectoryNode" />
-              <item name="319-灯泡开关" type="462c0819:PsiDirectoryNode" />
-              <item name="java-319" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="我的Leetcode题解" type="b2602c69:ProjectViewProjectNode" />
-              <item name="我的Leetcode题解" type="462c0819:PsiDirectoryNode" />
-              <item name="0001-0500" type="462c0819:PsiDirectoryNode" />
-              <item name="319-灯泡开关" type="462c0819:PsiDirectoryNode" />
-              <item name="java-319" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="我的Leetcode题解" type="b2602c69:ProjectViewProjectNode" />
-              <item name="我的Leetcode题解" type="462c0819:PsiDirectoryNode" />
               <item name="1001-1500" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="我的Leetcode题解" type="b2602c69:ProjectViewProjectNode" />
               <item name="我的Leetcode题解" type="462c0819:PsiDirectoryNode" />
               <item name="LC" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="我的Leetcode题解" type="b2602c69:ProjectViewProjectNode" />
+              <item name="我的Leetcode题解" type="462c0819:PsiDirectoryNode" />
+              <item name="LC" type="462c0819:PsiDirectoryNode" />
+              <item name="LCP02-分式化简" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="我的Leetcode题解" type="b2602c69:ProjectViewProjectNode" />
+              <item name="我的Leetcode题解" type="462c0819:PsiDirectoryNode" />
+              <item name="LC" type="462c0819:PsiDirectoryNode" />
+              <item name="LCP17-速算机器人" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="我的Leetcode题解" type="b2602c69:ProjectViewProjectNode" />
+              <item name="我的Leetcode题解" type="462c0819:PsiDirectoryNode" />
+              <item name="LC" type="462c0819:PsiDirectoryNode" />
+              <item name="LCP17-速算机器人" type="462c0819:PsiDirectoryNode" />
+              <item name="java-LCP17" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="我的Leetcode题解" type="b2602c69:ProjectViewProjectNode" />
+              <item name="我的Leetcode题解" type="462c0819:PsiDirectoryNode" />
+              <item name="LC" type="462c0819:PsiDirectoryNode" />
+              <item name="LCP17-速算机器人" type="462c0819:PsiDirectoryNode" />
+              <item name="java-LCP17" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="我的Leetcode题解" type="b2602c69:ProjectViewProjectNode" />
+              <item name="我的Leetcode题解" type="462c0819:PsiDirectoryNode" />
+              <item name="LC" type="462c0819:PsiDirectoryNode" />
+              <item name="LCP17-速算机器人" type="462c0819:PsiDirectoryNode" />
+              <item name="js-LCP17" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -284,7 +298,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1663294431370" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1663295010921" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -370,12 +384,12 @@
       <option name="presentableId" value="Default" />
       <updated>1663057794962</updated>
       <workItem from="1663057801922" duration="361000" />
-      <workItem from="1663058197241" duration="17660000" />
+      <workItem from="1663058197241" duration="18244000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18021000" />
+    <option name="totallyTimeSpent" value="18605000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -585,10 +599,35 @@
     <entry file="file://$PROJECT_DIR$/0001-0500/319-灯泡开关/java-319/src/BulbSwitch.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="72">
-          <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+          <caret line="4" column="1" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
           <folding>
             <element signature="e#50#51#0" expanded="true" />
             <element signature="e#103#104#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LC/LCP17-速算机器人/js-LCP17/Solution1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="15" column="2" selection-start-line="15" selection-start-column="2" selection-end-line="15" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LC/LCP17-速算机器人/js-LCP17/Solution2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="2" lean-forward="true" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LC/LCP17-速算机器人/java-LCP17/src/Calculate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+          <folding>
+            <element signature="e#52#53#0" expanded="true" />
+            <element signature="e#104#105#0" expanded="true" />
           </folding>
         </state>
       </provider>
