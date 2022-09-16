@@ -3,19 +3,21 @@
   <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8" inherit-compiler-output="true">
     <exclude-output />
     <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/1001-1500/1306-跳跃游戏Ⅲ/java-1306/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/0001-0500/0045-跳跃游戏Ⅱ/java-0045/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/2001-2500/2237-Count-Positions-on-Street-With-Required-Brightness/java-2237/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/0001-0500/0001-两数之和/java-0001/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/0001-0500/319-灯泡开关/java-0319/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/1001-1500/1310-子数组异或查询/java-1310/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/LC/LCP02-分式化简/java-LCP02/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/1001-1500/1228-等差数列中缺失的数字/java-1228/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/1501-2000/1619-删除某些元素后的数组均值/java-1619/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/0001-0500/0206-反转链表/java-0206/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/LC/LCP17-速算机器人/java-LCP17/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/0001-0500/55-跳跃游戏/java-0055/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/0001-0500/0300-最长递增子序列/java-0300/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/LC/LCP01-猜数字/java-LCP01/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/0001-0500/0055-跳跃游戏/java-0055/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/0001-0500/0003-无重复字符的最长子串/java-0003/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/0001-0500/0319-灯泡开关/java-0319/src" isTestSource="false" />
     </content>
     <orderEntry type="jdk" jdkName="14" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />
