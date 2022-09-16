@@ -3,11 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="8142d485-6c6d-4f70-9eac-a6258ca7c7b3" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0001-0500/0206-反转链表/java-206/src/ListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/0001-0500/0206-反转链表/java-0206/src/ListNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0001-0500/0206-反转链表/java-206/src/ReverseList1.java" beforeDir="false" afterPath="$PROJECT_DIR$/0001-0500/0206-反转链表/java-0206/src/ReverseList1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0001-0500/0206-反转链表/js-206/Solution1.js" beforeDir="false" afterPath="$PROJECT_DIR$/0001-0500/0206-反转链表/js-0206/Solution1.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0001-0500/319-灯泡开关/java-319/src/BulbSwitch.java" beforeDir="false" afterPath="$PROJECT_DIR$/0001-0500/319-灯泡开关/java-0319/src/BulbSwitch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0001-0500/319-灯泡开关/js-319/Solution.js" beforeDir="false" afterPath="$PROJECT_DIR$/0001-0500/319-灯泡开关/js-0319/Solution.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -27,28 +22,28 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="22" />
-          <entry key="js" value="10" />
+          <entry key="java" value="23" />
+          <entry key="js" value="11" />
           <entry key="md" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="22" />
-          <entry key="JavaScript" value="10" />
+          <entry key="JAVA" value="23" />
+          <entry key="JavaScript" value="11" />
           <entry key="Markdown" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="12" />
-          <entry key="java" value="3796" />
+          <entry key="java" value="3971" />
           <entry key="js" value="93" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="3796" />
+          <entry key="JAVA" value="3971" />
           <entry key="JavaScript" value="93" />
           <entry key="PLAIN_TEXT" value="12" />
         </counts>
@@ -58,10 +53,19 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/0001-0500/0045-跳跃游戏Ⅱ/java-0045/src/Jump.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="17" column="1" lean-forward="true" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/0001-0500/55-跳跃游戏/java-0055/src/CanJump.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+            <state relative-caret-position="198">
+              <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -110,11 +114,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/0001-0500/55-跳跃游戏/js-0055/Solution.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="306">
-              <caret line="17" column="2" lean-forward="true" selection-start-line="17" selection-start-column="2" selection-end-line="17" selection-end-column="2" />
+              <caret line="17" column="2" selection-start-line="17" selection-start-column="2" selection-end-line="17" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/0001-0500/0045-跳跃游戏Ⅱ/js-0045/Solution.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="414">
+              <caret line="23" column="21" lean-forward="true" selection-start-line="23" selection-start-column="21" selection-end-line="23" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -133,24 +146,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="108">
               <caret line="6" column="2" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="2" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LC/LCP01-猜数字/java-LCP01/src/Game.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="8" column="9" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LC/LCP02-分式化简/js-LCP02/Solution.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="16" column="26" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -218,6 +213,8 @@
         <option value="$PROJECT_DIR$/0001-0500/55-跳跃游戏/js-0055/Solution.js" />
         <option value="$PROJECT_DIR$/0001-0500/55-跳跃游戏/java-0055/src/Main.java" />
         <option value="$PROJECT_DIR$/0001-0500/55-跳跃游戏/java-0055/src/CanJump.java" />
+        <option value="$PROJECT_DIR$/0001-0500/0045-跳跃游戏Ⅱ/java-0045/src/Main.java" />
+        <option value="$PROJECT_DIR$/0001-0500/0045-跳跃游戏Ⅱ/java-0045/src/Jump.java" />
       </list>
     </option>
   </component>
@@ -257,29 +254,29 @@
               <item name="我的Leetcode题解" type="b2602c69:ProjectViewProjectNode" />
               <item name="我的Leetcode题解" type="462c0819:PsiDirectoryNode" />
               <item name="0001-0500" type="462c0819:PsiDirectoryNode" />
-              <item name="55-跳跃游戏" type="462c0819:PsiDirectoryNode" />
+              <item name="0045-跳跃游戏Ⅱ" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="我的Leetcode题解" type="b2602c69:ProjectViewProjectNode" />
               <item name="我的Leetcode题解" type="462c0819:PsiDirectoryNode" />
               <item name="0001-0500" type="462c0819:PsiDirectoryNode" />
-              <item name="55-跳跃游戏" type="462c0819:PsiDirectoryNode" />
-              <item name="java-0055" type="462c0819:PsiDirectoryNode" />
+              <item name="0045-跳跃游戏Ⅱ" type="462c0819:PsiDirectoryNode" />
+              <item name="java-0045" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="我的Leetcode题解" type="b2602c69:ProjectViewProjectNode" />
               <item name="我的Leetcode题解" type="462c0819:PsiDirectoryNode" />
               <item name="0001-0500" type="462c0819:PsiDirectoryNode" />
-              <item name="55-跳跃游戏" type="462c0819:PsiDirectoryNode" />
-              <item name="java-0055" type="462c0819:PsiDirectoryNode" />
+              <item name="0045-跳跃游戏Ⅱ" type="462c0819:PsiDirectoryNode" />
+              <item name="java-0045" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="我的Leetcode题解" type="b2602c69:ProjectViewProjectNode" />
               <item name="我的Leetcode题解" type="462c0819:PsiDirectoryNode" />
               <item name="0001-0500" type="462c0819:PsiDirectoryNode" />
-              <item name="55-跳跃游戏" type="462c0819:PsiDirectoryNode" />
-              <item name="js-0055" type="462c0819:PsiDirectoryNode" />
+              <item name="0045-跳跃游戏Ⅱ" type="462c0819:PsiDirectoryNode" />
+              <item name="js-0045" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="我的Leetcode题解" type="b2602c69:ProjectViewProjectNode" />
@@ -300,7 +297,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1663308298442" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1663310373551" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -386,12 +383,12 @@
       <option name="presentableId" value="Default" />
       <updated>1663057794962</updated>
       <workItem from="1663057801922" duration="361000" />
-      <workItem from="1663058197241" duration="20042000" />
+      <workItem from="1663058197241" duration="21067000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20403000" />
+    <option name="totallyTimeSpent" value="21428000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -636,15 +633,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/0001-0500/55-跳跃游戏/java-0055/src/CanJump.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+        <state relative-caret-position="198">
+          <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/0001-0500/55-跳跃游戏/js-0055/Solution.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
-          <caret line="17" column="2" lean-forward="true" selection-start-line="17" selection-start-column="2" selection-end-line="17" selection-end-column="2" />
+          <caret line="17" column="2" selection-start-line="17" selection-start-column="2" selection-end-line="17" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/0001-0500/0045-跳跃游戏Ⅱ/java-0045/src/Jump.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="17" column="1" lean-forward="true" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/0001-0500/0045-跳跃游戏Ⅱ/js-0045/Solution.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="23" column="21" lean-forward="true" selection-start-line="23" selection-start-column="21" selection-end-line="23" selection-end-column="21" />
         </state>
       </provider>
     </entry>
