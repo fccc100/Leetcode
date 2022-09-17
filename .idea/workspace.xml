@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="8142d485-6c6d-4f70-9eac-a6258ca7c7b3" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1001-1500/1425-带限制的子序列和/java-1425/src/ConstrainedSubsetSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/1001-1500/1425-带限制的子序列和/java-1425/src/ConstrainedSubsetSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/我的Leetcode题解.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/我的Leetcode题解.iml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -60,40 +60,61 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="Solution" value="1" />
-          <entry key="java" value="5" />
-          <entry key="js" value="2" />
+          <entry key="java" value="6" />
+          <entry key="js" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="5" />
-          <entry key="JavaScript" value="3" />
+          <entry key="JAVA" value="6" />
+          <entry key="JavaScript" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="937" />
+          <entry key="java" value="1330" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="937" />
+          <entry key="JAVA" value="1330" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/1501-2000/1624-两个相同字符之间的最长子字符串/java-1624/src/MaxLengthBetweenEqualCharacters.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/1001-1500/1499-满足不等式的最大值/java-1499/src/FindMaxValueOfEquation.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="308">
-              <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+            <state relative-caret-position="374">
+              <caret line="20" column="108" selection-start-line="20" selection-start-column="108" selection-end-line="20" selection-end-column="108" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/1501-2000/1624-两个相同字符之间的最长子字符串/java-1624/src/MaxLengthBetweenEqualCharacters.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="308">
+              <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/1001-1500/1499-满足不等式的最大值/js-1499/Solution.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="660">
+              <caret line="30" column="2" selection-start-line="30" selection-start-column="2" selection-end-line="30" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/1501-2000/1624-两个相同字符之间的最长子字符串/js-1624/Solution.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="330">
@@ -183,9 +204,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/0001-0500/0300-最长递增子序列/java-0300/src/LengthOfLIS1.java" />
-        <option value="$PROJECT_DIR$/0001-0500/0001-两数之和/java-0001/src/TwoSum.java" />
-        <option value="$PROJECT_DIR$/0001-0500/0003-无重复字符的最长子串/java-0003/src/LengthOfLongestSubstring2.java" />
         <option value="$PROJECT_DIR$/2000-2500/2237-Count-Positions-on-Street-With-Required-Brightness/java-2237/src/Main.java" />
         <option value="$PROJECT_DIR$/2000-2500/2237-Count-Positions-on-Street-With-Required-Brightness/java-2237/src/MeetRequirement.java" />
         <option value="$PROJECT_DIR$/0001-0500/0300-最长递增子序列/java-0300/src/LengthOfLIS2.java" />
@@ -234,6 +252,9 @@
         <option value="$PROJECT_DIR$/1001-1500/1425-带限制的子序列和/java-1425/src/ConstrainedSubsetSum.java" />
         <option value="$PROJECT_DIR$/1501-2000/1624-两个相同字符之间的最长子字符串/java-1624/src/Main.java" />
         <option value="$PROJECT_DIR$/1501-2000/1624-两个相同字符之间的最长子字符串/js-1624/Solution.js" />
+        <option value="$PROJECT_DIR$/1001-1500/1499-满足不等式的最大值/js-1499/Solution.js" />
+        <option value="$PROJECT_DIR$/1001-1500/1499-满足不等式的最大值/java-1499/src/Main.java" />
+        <option value="$PROJECT_DIR$/1001-1500/1499-满足不等式的最大值/java-1499/src/FindMaxValueOfEquation.java" />
       </list>
     </option>
   </component>
@@ -243,9 +264,9 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="607" />
-    <option name="y" value="47" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="442" />
+    <option name="y" value="87" />
     <option name="width" value="1448" />
     <option name="height" value="948" />
   </component>
@@ -270,35 +291,23 @@
             <path>
               <item name="Leetcode" type="b2602c69:ProjectViewProjectNode" />
               <item name="Leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="1501-2000" type="462c0819:PsiDirectoryNode" />
+              <item name="1001-1500" type="462c0819:PsiDirectoryNode" />
+              <item name="1499-满足不等式的最大值" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Leetcode" type="b2602c69:ProjectViewProjectNode" />
               <item name="Leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="1501-2000" type="462c0819:PsiDirectoryNode" />
-              <item name="1624-两个相同字符之间的最长子字符串" type="462c0819:PsiDirectoryNode" />
+              <item name="1001-1500" type="462c0819:PsiDirectoryNode" />
+              <item name="1499-满足不等式的最大值" type="462c0819:PsiDirectoryNode" />
+              <item name="java-1499" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Leetcode" type="b2602c69:ProjectViewProjectNode" />
               <item name="Leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="1501-2000" type="462c0819:PsiDirectoryNode" />
-              <item name="1624-两个相同字符之间的最长子字符串" type="462c0819:PsiDirectoryNode" />
-              <item name="java-1624" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="1501-2000" type="462c0819:PsiDirectoryNode" />
-              <item name="1624-两个相同字符之间的最长子字符串" type="462c0819:PsiDirectoryNode" />
-              <item name="java-1624" type="462c0819:PsiDirectoryNode" />
+              <item name="1001-1500" type="462c0819:PsiDirectoryNode" />
+              <item name="1499-满足不等式的最大值" type="462c0819:PsiDirectoryNode" />
+              <item name="java-1499" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="1501-2000" type="462c0819:PsiDirectoryNode" />
-              <item name="1624-两个相同字符之间的最长子字符串" type="462c0819:PsiDirectoryNode" />
-              <item name="js-1624" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -311,7 +320,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1663386414811" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1663393661530" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -398,18 +407,18 @@
       <updated>1663057794962</updated>
       <workItem from="1663057801922" duration="361000" />
       <workItem from="1663058197241" duration="24728000" />
-      <workItem from="1663383819098" duration="2320000" />
+      <workItem from="1663383819098" duration="3994000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27409000" />
+    <option name="totallyTimeSpent" value="29083000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="486" y="38" width="1158" height="758" extended-state="0" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2390909" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.052949063" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -722,17 +731,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/1501-2000/1624-两个相同字符之间的最长子字符串/java-1624/src/MaxLengthBetweenEqualCharacters.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/1501-2000/1624-两个相同字符之间的最长子字符串/js-1624/Solution.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
           <caret line="15" column="2" selection-start-line="15" selection-start-column="2" selection-end-line="15" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1501-2000/1624-两个相同字符之间的最长子字符串/java-1624/src/MaxLengthBetweenEqualCharacters.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1001-1500/1499-满足不等式的最大值/js-1499/Solution.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="30" column="2" selection-start-line="30" selection-start-column="2" selection-end-line="30" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1001-1500/1499-满足不等式的最大值/java-1499/src/FindMaxValueOfEquation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="20" column="108" selection-start-line="20" selection-start-column="108" selection-end-line="20" selection-end-column="108" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
