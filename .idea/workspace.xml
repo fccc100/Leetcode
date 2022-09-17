@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="8142d485-6c6d-4f70-9eac-a6258ca7c7b3" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/我的Leetcode题解.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/我的Leetcode题解.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1001-1500/1425-带限制的子序列和/java-1425/src/ConstrainedSubsetSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/1001-1500/1425-带限制的子序列和/java-1425/src/ConstrainedSubsetSum.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -60,35 +60,53 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="Solution" value="1" />
-          <entry key="java" value="4" />
-          <entry key="js" value="1" />
+          <entry key="java" value="5" />
+          <entry key="js" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="4" />
-          <entry key="JavaScript" value="2" />
+          <entry key="JAVA" value="5" />
+          <entry key="JavaScript" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="728" />
+          <entry key="java" value="937" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="728" />
+          <entry key="JAVA" value="937" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/1501-2000/1624-两个相同字符之间的最长子字符串/java-1624/src/MaxLengthBetweenEqualCharacters.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="308">
+              <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/1501-2000/1624-两个相同字符之间的最长子字符串/js-1624/Solution.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="15" column="2" selection-start-line="15" selection-start-column="2" selection-end-line="15" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/1001-1500/1425-带限制的子序列和/java-1425/src/ConstrainedSubsetSum.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="421">
-              <caret line="28" column="5" lean-forward="true" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
+            <state relative-caret-position="443">
+              <caret line="31" selection-start-line="31" selection-end-line="31" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -165,8 +183,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/0001-0500/0003-无重复字符的最长子串/java-0003/src/Solution.java" />
-        <option value="$PROJECT_DIR$/0001-0500/0003-无重复字符的最长子串/java-0003/src/LengthOfLongestSubstring.java" />
         <option value="$PROJECT_DIR$/0001-0500/0300-最长递增子序列/java-0300/src/LengthOfLIS1.java" />
         <option value="$PROJECT_DIR$/0001-0500/0001-两数之和/java-0001/src/TwoSum.java" />
         <option value="$PROJECT_DIR$/0001-0500/0003-无重复字符的最长子串/java-0003/src/LengthOfLongestSubstring2.java" />
@@ -216,6 +232,8 @@
         <option value="$PROJECT_DIR$/1001-1500/1425-带限制的子序列和/js-1425/Solution.js" />
         <option value="$PROJECT_DIR$/1001-1500/1425-带限制的子序列和/java-1425/src/Main.java" />
         <option value="$PROJECT_DIR$/1001-1500/1425-带限制的子序列和/java-1425/src/ConstrainedSubsetSum.java" />
+        <option value="$PROJECT_DIR$/1501-2000/1624-两个相同字符之间的最长子字符串/java-1624/src/Main.java" />
+        <option value="$PROJECT_DIR$/1501-2000/1624-两个相同字符之间的最长子字符串/js-1624/Solution.js" />
       </list>
     </option>
   </component>
@@ -252,8 +270,35 @@
             <path>
               <item name="Leetcode" type="b2602c69:ProjectViewProjectNode" />
               <item name="Leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="1001-1500" type="462c0819:PsiDirectoryNode" />
-              <item name="1425-带限制的子序列和" type="462c0819:PsiDirectoryNode" />
+              <item name="1501-2000" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="1501-2000" type="462c0819:PsiDirectoryNode" />
+              <item name="1624-两个相同字符之间的最长子字符串" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="1501-2000" type="462c0819:PsiDirectoryNode" />
+              <item name="1624-两个相同字符之间的最长子字符串" type="462c0819:PsiDirectoryNode" />
+              <item name="java-1624" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="1501-2000" type="462c0819:PsiDirectoryNode" />
+              <item name="1624-两个相同字符之间的最长子字符串" type="462c0819:PsiDirectoryNode" />
+              <item name="java-1624" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="1501-2000" type="462c0819:PsiDirectoryNode" />
+              <item name="1624-两个相同字符之间的最长子字符串" type="462c0819:PsiDirectoryNode" />
+              <item name="js-1624" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -266,7 +311,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1663385664391" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1663386414811" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -353,15 +398,16 @@
       <updated>1663057794962</updated>
       <workItem from="1663057801922" duration="361000" />
       <workItem from="1663058197241" duration="24728000" />
-      <workItem from="1663383819098" duration="1961000" />
+      <workItem from="1663383819098" duration="2320000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27050000" />
+    <option name="totallyTimeSpent" value="27409000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="486" y="38" width="1158" height="758" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2390909" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -668,11 +714,25 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/1001-1500/1425-带限制的子序列和/java-1425/src/ConstrainedSubsetSum.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="421">
-          <caret line="28" column="5" lean-forward="true" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
+        <state relative-caret-position="443">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1501-2000/1624-两个相同字符之间的最长子字符串/java-1624/src/MaxLengthBetweenEqualCharacters.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1501-2000/1624-两个相同字符之间的最长子字符串/js-1624/Solution.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" column="2" selection-start-line="15" selection-start-column="2" selection-end-line="15" selection-end-column="2" />
         </state>
       </provider>
     </entry>
