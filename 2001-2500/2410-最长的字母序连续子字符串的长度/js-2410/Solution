@@ -1,0 +1,27 @@
+/**
+ * @param {string} s
+ * @return {number}
+ */
+var longestContinuousSubstring = function (s) {
+    let n = s.length;
+    if (n == 0) return 0;
+    if (n == 1) return 1;
+
+    let cur = s[0].charCodeAt() - 'a'.charCodeAt();
+    let curLen = 1;
+
+    let res = 1;
+    for (let i = 1; i < s.length; i++) {
+        let code = s[i].charCodeAt() - 'a'.charCodeAt();
+        if (code == cur + 1) {
+            cur = code;
+            curLen++;
+        } else {
+            cur = code;
+            curLen = 1;
+        }
+
+        res = Math.max(res, curLen);
+    }
+    return res;
+};
