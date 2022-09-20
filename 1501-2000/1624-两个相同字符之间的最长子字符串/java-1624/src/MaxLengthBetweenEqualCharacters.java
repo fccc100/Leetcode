@@ -1,3 +1,5 @@
+import java.util.HashMap;
+
 class MaxLengthBetweenEqualCharacters {
     public int maxLengthBetweenEqualCharacters(String s) {
         HashMap<Character, Integer> map = new HashMap<>();
