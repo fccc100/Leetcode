@@ -1,4 +1,4 @@
-class MaxProduct {
+class MaxProduct1 {
     public int maxProduct(String[] words) {
         int n = words.length;
         int[] bits = new int[n];
