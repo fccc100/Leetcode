@@ -1,4 +1,4 @@
-class MinSwaps {
+class MinSwaps1 {
     public int minSwaps(int[] nums) {
         int n = nums.length;
 
