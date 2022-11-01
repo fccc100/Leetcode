@@ -1,3 +1,5 @@
+import java.util.List;
+
 class CountMatches {
     public int countMatches(List<List<String>> items, String ruleKey, String ruleValue) {
         int n = items.size();
