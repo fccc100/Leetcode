@@ -1,13 +1,4 @@
 # TLE
-class Restaurant():
-    def __init__(self, r_id):
-        self.id = r_id
-
-    def show(self):
-        print("restaurant show")
-
-
-
 class Solution:
     def __init__(self):
         self.res = 0
