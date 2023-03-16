@@ -6,4 +6,3 @@ class Solution:
             if w[0] in s and w[-1] in s:
                 res += 1
         return res
-        
