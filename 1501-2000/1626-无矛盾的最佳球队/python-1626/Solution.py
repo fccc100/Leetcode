@@ -12,4 +12,3 @@ class Solution:
             dp[i] += pairs[i][0]
             res = max(res, dp[i])
         return res
-        
