@@ -4,7 +4,7 @@ import java.util.Map;
 class FindSmallestInteger {
     public int findSmallestInteger(int[] nums, int value) {
         int n = nums.length;
-        Map<Long, Integer> map = new HashMap<>();
+        Map<Long, Integer> map = new HashMap<Long, Integer>();
         for (int i = 0; i < n; i++) {
             long val = nums[i] + 10000000000l * value;
             val %= value;
