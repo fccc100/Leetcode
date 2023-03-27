@@ -11,10 +11,6 @@ class CountSubstrings {
             for (int j = 0; j <= m - i; j++) {
                 for (int k = 0; k <= n - i; k++) {
                     if (check(s, j, t, k, i)) {
-                        System.out.println(j);
-                        System.out.println(k);
-                        System.out.println(i);
-                        System.out.println("---");
                         res++;
                     }
                 }
@@ -22,7 +18,6 @@ class CountSubstrings {
         }
         return res;
     }
-    
     private boolean check(String s, int j, String t, int k, int len) {
         int res = 0;
         while (len > 0) {
