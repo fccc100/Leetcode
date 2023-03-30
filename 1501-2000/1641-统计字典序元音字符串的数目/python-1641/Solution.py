@@ -9,4 +9,3 @@ class Solution:
             u = u
             n -= 1
         return a + e + i + o + u
-        
