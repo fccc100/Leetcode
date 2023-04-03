@@ -13,4 +13,3 @@ class Solution:
             if i + 1 < n and arr[i] > arr[i + 1]:
                 break
         return res
-        
