@@ -15,4 +15,3 @@ class Solution:
                     max_idx = i
         arr[last], arr[max_idx] = arr[max_idx], arr[last]
         return arr
-        
