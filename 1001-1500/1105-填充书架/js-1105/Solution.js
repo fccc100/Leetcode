@@ -15,7 +15,7 @@ var minHeightShelves = function (books, shelfWidth) {
             if (curWidth <= shelfWidth) {
                 maxHeight = Math.max(maxHeight, books[j][1])
                 dp[i + 1] = Math.min(dp[i + 1], dp[j] + maxHeight)
-            }
+            } else break
         }
     }
     return dp[n]
